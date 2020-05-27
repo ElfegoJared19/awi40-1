@@ -1,4 +1,4 @@
-# POO
+# awi40
 
 [![Run on Repl.it](https://repl.it/badge/github/Ignacio246/POO)](https://repl.it/github/Ignacio246/POO)
 
